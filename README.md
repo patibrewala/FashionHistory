@@ -9,7 +9,7 @@ This program can display fashion history of:
 - A decade
 - A clothing item
 
-###### This porgram runs properly with Jupyter Notebook. Terminal can also be used to run this program
+#### This porgram runs properly with Jupyter Notebook. Terminal can also be used to run this program
 It requires 'tkinter' and 'pillow/ PIL'.
 
 
